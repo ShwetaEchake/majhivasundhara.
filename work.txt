@@ -1,0 +1,22 @@
+user type dropdown will have 3 types
+    - desktop accessor
+    - field accessor
+    - user
+
+DESKTOP accessor
+    - check the form / can edit form
+
+
+Field accessor
+    - go on field and upload photo / only photo upload n desc
+
+
+again come to desktop accessor and he can change marks of it and submit finally.
+
+-coming soon page pdf link is not visible = done
+
+-in jan-jagruti spardha competition marks will not be visible to participant = done
+
+-show category name on top of contest form page = done
+
+-upload excel with image from frontend for paryavaran dut = done

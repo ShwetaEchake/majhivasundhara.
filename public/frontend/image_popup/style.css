@@ -1,0 +1,26 @@
+
+#imageGallery{
+    list-style: none;
+    margin: 0 auto;
+    max-width: 780px;
+    text-align: center;
+    padding: 0;
+    display: block;
+}
+
+#imageGallery li{
+    padding: 5px;
+    background: #ffffff;
+    margin: 5px;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+}
+
+#imageGallery li img{
+    display: block;
+    width: 130px;
+    height: 100px;
+}
